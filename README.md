@@ -37,10 +37,10 @@ cdk deploy cdk-stack
 
 ## Documentation
 
-[CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
+- [CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
 
-[CDK](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+- [CDK](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
 
-[React](https://reactjs.org/docs/getting-started.html)
+- [React](https://reactjs.org/docs/getting-started.html)
 
-[TypeScript](https://www.typescriptlang.org/docs)
+- [TypeScript](https://www.typescriptlang.org/docs)
